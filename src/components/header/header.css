@@ -1,0 +1,10 @@
+ ul li {
+    list-style: none;
+    margin-inline-start: 10px;
+    padding: .5rem 1rem;
+    border-radius: 3px;
+  }
+
+li a {
+      margin-inline-start: 50px;
+  }
